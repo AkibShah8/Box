@@ -56,3 +56,17 @@ section {
   color: aqua;
   padding-right: 100px;
 }
+
+.box1 {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+
+}
+
+.box2 {
+  width: 150px;
+  height: 150px;
+  background-color: aqua;
+
+}
